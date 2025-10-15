@@ -7,7 +7,7 @@
 
 A high-performance, lightweight vector database built in Rust with text-to-embedding conversion, optimized vector storage, and similarity search capabilities. Vectron combines the speed of Rust with the power of modern AI embedding models.
 
-Gemini_Generated_Image_ldmbc9ldmbc9ldmb.png
+
 
 
 ## ✨ Features
@@ -334,9 +334,7 @@ This project has been developed in phases:
 - Distributed vector storage for scaling
 - Web UI for interactive demos
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
